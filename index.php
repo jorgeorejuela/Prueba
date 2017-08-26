@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
     <h1>Hola soy un cambio par Git</h1>
+     <h2>Hola segundo cambio en GIT</h2>
         <?php
         for($i=0;$i<=5;$i++){
             ?>
