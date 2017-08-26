@@ -10,6 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+    <h1>Hola soy un cambio par Git</h1>
         <?php
         for($i=0;$i<=5;$i++){
             ?>
